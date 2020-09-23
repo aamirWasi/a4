@@ -1,3 +1,3 @@
-public class Test2{
-	public Test2(){}
+public class Test3{
+	public Test3(){}
 }
